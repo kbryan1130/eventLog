@@ -37,6 +37,7 @@ WORD  mWRnext = 0;
 WORD  mRDnext = 0;
 
 WORD stuff;
+WORD more_stuff;
 
 eventLog_Rec_t eventLog[MAX_LOG_ENTRIES];
 
