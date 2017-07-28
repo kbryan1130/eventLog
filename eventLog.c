@@ -36,6 +36,8 @@ WORD  mFirst  = 0;
 WORD  mWRnext = 0;
 WORD  mRDnext = 0;
 
+WORD stuff;
+
 eventLog_Rec_t eventLog[MAX_LOG_ENTRIES];
 
 BOOL   mRollover = FALSE;
