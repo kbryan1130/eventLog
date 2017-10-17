@@ -27,7 +27,8 @@
 #define  LOGTEXT_MAX_SIZE  (60)
 
 #define  STUFF				(1)	// define stuff
-#define  STUFFSTUFF			(0)
+define  STUFFSTUFF			(0)
+#define  NEWSTUFF			(2)
 
 /*****************************************************************
 *  Typedefs
